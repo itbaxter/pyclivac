@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: pyclivac
+Version: 0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Deanna Nash & Tessa Montini
+Author-email: dlnash@ucsb.edu
+License: MIT
+Description: 
+        A series of programs designed for UCSB Climate Variability and Changes (CLIVAC) research group developed by Tessa Montini and Deanna Nash.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent

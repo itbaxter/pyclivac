@@ -1,0 +1,10 @@
+README.md
+setup.py
+modules/__init__.py
+modules/eofs.py
+modules/function_example.py
+modules/plotter.py
+pyclivac.egg-info/PKG-INFO
+pyclivac.egg-info/SOURCES.txt
+pyclivac.egg-info/dependency_links.txt
+pyclivac.egg-info/top_level.txt
